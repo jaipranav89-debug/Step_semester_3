@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afd1cca8-1ba8-4083-b114-b7c3151ac4ba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000018443" />
+      <entry key="MS500" value="1.0044995611029273" />
+      <entry key="S2" value="1.258995737882317" />
+      <entry key="S5" value="1.5836999665924631" />
+      <entry key="S10" value="1.7974653176654276" />
+      <entry key="S30" value="2.2436914169739195" />
+      <entry key="S60" value="2.681358138387898" />
+      <entry key="M2" value="5.6168643903654125" />
+      <entry key="M5" value="33.88692662813285" />
+      <entry key="M10" value="81.64096971171061" />
+      <entry key="M15" value="112.66951034721527" />
+      <entry key="M30" value="157.7419446543579" />
+      <entry key="H1" value="187.644147111382" />
+      <entry key="H2" value="204.92834723464247" />
+      <entry key="H4" value="214.22878181616966" />
+      <entry key="D1" value="222.33770023287704" />
+      <entry key="W1" value="223.76168740526458" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9201876506264153" />
+      <entry key="MS500" value="0.9878423424975572" />
+      <entry key="S2" value="1.2525221861921707" />
+      <entry key="S5" value="1.5799386868493714" />
+      <entry key="S10" value="1.7952122134384239" />
+      <entry key="S30" value="2.2426000723097212" />
+      <entry key="S60" value="2.679207352055555" />
+      <entry key="M2" value="5.609597758717708" />
+      <entry key="M5" value="33.8730678469222" />
+      <entry key="M10" value="81.62829205935421" />
+      <entry key="M15" value="112.65902753173667" />
+      <entry key="M30" value="157.7353861615047" />
+      <entry key="H1" value="187.64046523964043" />
+      <entry key="H2" value="204.92639458363857" />
+      <entry key="H4" value="214.2277760389484" />
+      <entry key="D1" value="222.33752837638573" />
+      <entry key="W1" value="223.76166274898995" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IxN5XKdZC6Z4Mh81FS6NvKHSsD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BookInventory.executor": "Run",
+    "Application.BookingReceiptTest.executor": "Run",
+    "Application.CineScreen.executor": "Run",
+    "Application.CirculationLedger.executor": "Run",
+    "Application.FineLedger.executor": "Run",
+    "Application.LibraryMember.executor": "Run",
+    "Application.LibraryMemberBean.executor": "Run",
+    "Application.LibraryProblem1.executor": "Run",
+    "Application.LibraryProblem2.executor": "Run",
+    "Application.LibraryProblem3.executor": "Run",
+    "Application.MembershipTree.executor": "Run",
+    "Application.MovieBookingProfile.executor": "Run",
+    "Application.MovieTicket.executor": "Run",
+    "Application.ReferenceDesk.executor": "Run",
+    "Application.SubclassTicketAccess.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/session__6",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Step_semester_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Step_semester_3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd1cca8-1ba8-4083-b114-b7c3151ac4ba" name="Changes" comment="" />
+      <created>1788702081040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788702081040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
