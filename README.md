@@ -1,10 +1,10 @@
 ## Date: 11-09-2026
 
 **Today's Work:**
-- Completed Session 1,2,3,4,5,6,7,8 class problems and assignment problems.
+- Completed Session 1,2,3,4,5,6,7,8,9 class problems and assignment problems.
 
 **Next Session Plan:**
-- Work on Session 9 problems.
+- Work on Session 10 problems.
 
 **Issues Faced:**
 - Faced some IntelliJ project configuration issues while setting up the Java source folder.
